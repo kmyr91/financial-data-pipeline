@@ -1,0 +1,7 @@
+pip install \
+  yfinance \
+  duckdb \
+  sqlalchemy \
+  dbt-duckdb \
+  dbt-core \
+  pandas
